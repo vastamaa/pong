@@ -1,0 +1,20 @@
+C:\Users\vszto\source\repos\pong\pong\bin\Debug\pong.exe.config
+C:\Users\vszto\source\repos\pong\pong\bin\Debug\pong.exe
+C:\Users\vszto\source\repos\pong\pong\bin\Debug\pong.pdb
+C:\Users\vszto\source\repos\pong\pong\obj\Debug\pong.csprojAssemblyReference.cache
+C:\Users\vszto\source\repos\pong\pong\obj\Debug\pong.Form1.resources
+C:\Users\vszto\source\repos\pong\pong\obj\Debug\pong.Properties.Resources.resources
+C:\Users\vszto\source\repos\pong\pong\obj\Debug\pong.csproj.GenerateResource.cache
+C:\Users\vszto\source\repos\pong\pong\obj\Debug\pong.csproj.CoreCompileInputs.cache
+C:\Users\vszto\source\repos\pong\pong\obj\Debug\pong.exe
+C:\Users\vszto\source\repos\pong\pong\obj\Debug\pong.pdb
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\bin\Debug\pong.exe.config
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\bin\Debug\pong.exe
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\bin\Debug\pong.pdb
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\obj\Debug\pong.csprojAssemblyReference.cache
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\obj\Debug\pong.Form1.resources
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\obj\Debug\pong.Properties.Resources.resources
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\obj\Debug\pong.csproj.GenerateResource.cache
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\obj\Debug\pong.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\obj\Debug\pong.exe
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\pong\pong\obj\Debug\pong.pdb
